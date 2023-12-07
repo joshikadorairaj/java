@@ -1,0 +1,8 @@
+<web-app xmlns="https://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="https://xmlns.jcp.org/xml/ns/javaee https://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" 
+ version="4.0">
+    <!-- <context-param>
+        <param-name>myParam</param-name>
+        <param-value>Hello from init parameter</param-value>
+    </context-param> -->
+</web-app>
