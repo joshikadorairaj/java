@@ -1,0 +1,12 @@
+com\kgisl\JPAProject\App.class
+com\kgisl\JPAProject\AscDesc.class
+com\kgisl\JPAProject\Library.class
+com\kgisl\JPAProject\Employee.class
+com\kgisl\JPAProject\ManyToOneExample.class
+com\kgisl\JPAProject\ListMapping.class
+com\kgisl\JPAProject\MultiFetch.class
+com\kgisl\JPAProject\Book.class
+com\kgisl\JPAProject\SingleFetch.class
+com\kgisl\JPAProject\StudentEntity.class
+com\kgisl\JPAProject\Student.class
+com\kgisl\JPAProject\Address.class
