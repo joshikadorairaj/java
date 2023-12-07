@@ -1,0 +1,9 @@
+<web-app
+xmlns="https://www.w3.org/2001/XMLSchema" xmlns:jakartaee="https://jakarta.ee/xml/ns/jakartaee"
+xmlns:xsd="https://www.w3.org/2001/XMLSchema"
+targetNamespace="https://jakarta.ee/xml/ns/jakartaee"
+elementFormDefault="qualified" attributeFormDefault="unqualified" version="6.0">
+ 
+  <display-name>Archetype Created Web Application</display-name>
+ 
+</web-app>
