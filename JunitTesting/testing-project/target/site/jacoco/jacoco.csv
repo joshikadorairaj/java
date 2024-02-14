@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+testing-project,com.kgisl.JunitTesting,Calculator,19,0,0,0,5,0,5,0,5,0
+testing-project,com.kgisl.JunitTesting,Customer,31,0,0,0,14,0,9,0,9,0
+testing-project,com.kgisl.JunitTesting,App,7,0,0,0,3,0,2,0,2,0
+testing-project,com.kgisl.JunitTesting,CustomerBuilder,35,0,0,0,11,0,6,0,6,0
